@@ -1,0 +1,5 @@
+[
+  { "id": "l1", "title": "Introdução à Respiração", "category": "Respiração", "level": "init", "description": "Noções básicas de respiração." },
+  { "id": "l2", "title": "Consciência Corporal", "category": "Corpo", "level": "medium", "description": "Exercícios para postura." },
+  { "id": "l3", "title": "Foco e Atenção", "category": "Mental", "level": "init", "description": "Técnicas para manter atenção." }
+]

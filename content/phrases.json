@@ -1,0 +1,5 @@
+[
+  { "id": "p1", "text": "Respira fundo e observa.", "pack": "Mindfulness", "tags": ["respiração", "concentração"], "level": "init" },
+  { "id": "p2", "text": "Foca-te no presente.", "pack": "Foco", "tags": ["atenção"], "level": "init" },
+  { "id": "p3", "text": "Sente a postura do teu corpo.", "pack": "Corporal", "tags": ["postura"], "level": "medium" }
+]
