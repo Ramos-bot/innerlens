@@ -1,4 +1,27 @@
 [
-  { "id": "r1", "title": "Mini-Rotina Matinal", "steps": ["Respiração 1 min", "Postura 2 min", "Alongamento 2 min"], "durationMinutes": 5, "tags": ["matinal"] },
-  { "id": "r2", "title": "Rotina de Foco", "steps": ["Respirar 30s", "Foco 3 min"], "durationMinutes": 4, "tags": ["foco"] }
+    {
+        "id": "r1",
+        "title": "Mini-Rotina Matinal",
+        "steps": [
+            "Respiração 1 min",
+            "Postura 2 min",
+            "Alongamento 2 min"
+        ],
+        "durationMinutes": 5,
+        "tags": [
+            "matinal"
+        ]
+    },
+    {
+        "id": "r2",
+        "title": "Rotina de Foco",
+        "steps": [
+            "Respirar 30s",
+            "Foco 3 min"
+        ],
+        "durationMinutes": 4,
+        "tags": [
+            "foco"
+        ]
+    }
 ]
